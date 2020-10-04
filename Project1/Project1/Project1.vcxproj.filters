@@ -18,10 +18,13 @@
     <ClCompile Include="..\..\..\Practice3\Practice3\example01.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Practice3\Practice3\homework01.cpp">
+    <ClCompile Include="..\..\..\Practice3\Practice3\homework02.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Practice3\Practice3\homework02.cpp">
+    <ClCompile Include="example02.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="homework01.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
