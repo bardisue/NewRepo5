@@ -9,6 +9,7 @@ public:
 	Animal() {};
 	Animal(std::string name) : name(name) {};
 
+
 	void showName() {
 		std::cout << "Name is " << name << std::endl;
 	}
